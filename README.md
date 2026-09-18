@@ -31,17 +31,6 @@ Most of my professional work lives in private repositories, so here is a snapsho
 - 🔌 **Data Integration Pipelines:** reliable flows that pull data from external APIs with transformation and validation
 - 🏛️ **Citizen Service Portals:** secure, high-traffic platforms with role-based access, real-time dashboards and optimized PostgreSQL queries
 
-## 📂 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/bhavesh-gurav/Clinic_Management_System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavesh-gurav&repo=Clinic_Management_System&theme=radical" alt="Clinic Management System"/></a>
-  <a href="https://github.com/bhavesh-gurav/Asp.Net_Core_6.0_Practice_projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavesh-gurav&repo=Asp.Net_Core_6.0_Practice_projects&theme=radical" alt="ASP.NET Core 6.0 Practice Projects"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/bhavesh-gurav/MVC_DotNet_FrameWork"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavesh-gurav&repo=MVC_DotNet_FrameWork&theme=radical" alt="MVC DotNet FrameWork"/></a>
-  <a href="https://github.com/bhavesh-gurav/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavesh-gurav&repo=portfolio&theme=radical" alt="Portfolio"/></a>
-</p>
-
 ## 🌐Socials
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://bhavesh-gurav.github.io/portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaveshgurav/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19264007/dev-swamy) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavesh.gurav.in@gmail.com)
@@ -77,12 +66,4 @@ Most of my professional work lives in private repositories, so here is a snapsho
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bhavesh-gurav&theme=radical&hide_border=false" alt="GitHub streak"/>
-</p>
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhavesh-gurav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=bhavesh-gurav&icon=0&color=0" alt="Visitor count"/></a>
 </p>
