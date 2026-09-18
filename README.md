@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Bhavesh 👋</h1>
-<p align="center"><i>Full Stack Developer · .NET · Angular · AI Enthusiast</i></p>
+<p align="center"><i>Full Stack Developer · AI Enthusiast</i></p>
 
 ---
 
